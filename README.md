@@ -1,6 +1,7 @@
 # Node.js
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
+Node.js is extension of Java script .
 
 For information on using Node.js, see the [Node.js website][].
 
